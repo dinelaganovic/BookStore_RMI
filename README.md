@@ -1,1 +1,1 @@
-# RMI_Project
+Example Java RMI
